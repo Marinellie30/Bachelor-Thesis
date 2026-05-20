@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # # ML Pipeline: Predicting Secondary Psychopathy from Childhood Trauma
-# **Marilena Karoulla | Tilburg University | CSAI Bachelor Thesis**  
-# **Supervisor: Dr. Harm Brouwer**
 # 
 # ---
 # This notebook contains the complete pipeline:
