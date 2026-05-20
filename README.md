@@ -48,7 +48,7 @@ This project investigates whether self-reported childhood trauma can predict sec
 | 7 | Stratified 80/20 train/test split |
 | 8 | Feature scaling (StandardScaler, fit on train only) |
 | 9 | Random oversampling to address class imbalance |
-| 10 | Regression pipeline (exploratory; poor R² motivated classification reframe) |
+| 10 | Regression pipeline  |
 | 11 | Classification pipeline with GridSearchCV hyperparameter tuning |
 | 12 | Test set evaluation (accuracy, balanced accuracy, sensitivity, specificity, PPV, NPV, F1, AUC) |
 | 13 | Confusion matrices |
