@@ -263,6 +263,10 @@ print(X.corrwith(y).round(3))
 
 # ## Part 6 — Target Distribution & Binning
 
+# Cutoffs from: Spencer, R. J., & Byrne, M. K. (2016, 10). Relationship between the extent of psychopathic features among corporate managers and subsequent employee job satisfaction. Personality and Individual Differences, 101, 440-445. doi: 10.1016/j.paid.2016.06.044 
+
+# Categories: Low = 10-22, Medium = 23-26, High = 27-30, Very High = 30+
+
 # ### 6a — Initial 4-category exploration
 
 # In[12]:
