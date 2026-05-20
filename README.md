@@ -60,7 +60,7 @@ This project investigates whether self-reported childhood trauma can predict sec
 
 ## Models
 
-**Regression (exploratory):** Linear Regression, Elastic Net, Random Forest, KNN
+**Regression (not reported):** Linear Regression, Elastic Net, Random Forest, KNN
 
 **Classification (reported):** Logistic Regression, Random Forest, KNN, SVM  
 All classifiers use `class_weight='balanced'` and are tuned with 5-fold stratified cross-validation optimising balanced accuracy.
