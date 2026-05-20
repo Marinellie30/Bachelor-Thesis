@@ -134,4 +134,6 @@ All output figures are saved automatically to the working directory.
 ## Reference
 
 Bernstein, D. P., & Fink, L. (1998). Childhood trauma questionnaire: A retrospective self-report. San Antonio, TX: The Psychological Corporation.
+
+
 Spencer, R. J., & Byrne, M. K. (2016, 10). Relationship between the extent of psychopathic features among corporate managers and subsequent employee job satisfaction. Personality and Individual Differences, 101, 440-445. doi: 10.1016/j.paid.2016.06.044
