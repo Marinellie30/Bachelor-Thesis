@@ -87,7 +87,7 @@ Clinical severity cutoffs follow Bernstein & Fink (1998).
 
 ## Data
 
-The raw data file `df_wide.csv` is not included in this repository due to participant confidentiality. Five participants were excluded prior to analysis due to out-of-range item responses (IDs: 79, 99, 123, 141, 150).
+The raw data file `df_wide.csv` is not included in this repository due to participant confidentiality. Participants with out-of-range item responses were excluded.
 
 To reproduce the results, place your own `df_wide.csv` (with the expected column structure) in the project root before running the pipeline.
 
